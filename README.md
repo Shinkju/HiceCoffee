@@ -12,4 +12,12 @@
 2022.10.05 ~ 2022.10.17<br><br>
 
 
-<h2>프로젝트 개요</h2><br>
+<h2>사용 기술</h2><br>
+✔️Java, JavaScript<br>
+✔️Framework  :  STS4<br>
+✔️DBMS  :  Oracle DBMS<br>
+✔️API  :  kakao 지도 API, kakaoPay 결제 API<br>
+✔️Collaboration Tools  :  Github, Notion, Slack, Modeler5<br><br>
+
+
+<h2>구현 기능 담당</h2><br>
